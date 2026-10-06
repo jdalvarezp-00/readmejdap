@@ -56,7 +56,12 @@ Contenido oculto q se despliega
 La ecuacion de Einstein es $E = mc ^ 2$
 
 $$
-x = 2^4  
+x = 2^4 * y
+$$
+
+![Foto1](IMG_6675.jpeg)
+![Foto2](IMG_6682.jpeg)
+
 
 
 
